@@ -1,0 +1,2 @@
+model_checkpoint_path: "_p4500_r1_n1000_l200_nn_model"
+all_model_checkpoint_paths: "_p4500_r1_n1000_l200_nn_model"

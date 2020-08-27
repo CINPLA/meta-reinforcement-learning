@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#
+lstm_datasets/*/plots
+.DS_Store
+a2c_agent_alex/a2c_agent_alex_testing.npy
+dropout_test/
